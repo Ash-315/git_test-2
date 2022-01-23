@@ -1,1 +1,3 @@
 Hello world! (Ugh, so boring)
+
+Testing if only "git commit (without -m) works or not"
